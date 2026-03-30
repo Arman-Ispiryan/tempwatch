@@ -1,4 +1,4 @@
-# 🌡️ tempwatch
+# 🌡️ Tempwatch
 
 > Live hardware temperature monitor for Linux
 
