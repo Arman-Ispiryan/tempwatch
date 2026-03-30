@@ -55,7 +55,7 @@ tempwatch is a real-time terminal UI that displays CPU core temperatures, GPU te
 ### Quick install (recommended)
 
 ```bash
-sudo cp ~/Downloads/install-tempwatch.sh /var/www/html/apt/
+curl -fsSL https://armanispiryan.com/apt/install-tempwatch.sh | sudo bash
 ```
 
 Adds the apt repository and installs tempwatch. Future updates come through `sudo apt upgrade`.
