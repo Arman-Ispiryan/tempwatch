@@ -63,7 +63,7 @@ Adds the apt repository and installs tempwatch. Future updates come through `sud
 ### Manual apt setup
 
 ```bash
-echo "deb [trusted=yes] https://armanispiryan.com/apt ./" | sudo tee /etc/apt/sources.list.d/tempwatch.list
+echo "deb [trusted=yes] https://armanispiryan.com/apt ./" | sudo tee /etc/apt/sources.list.d/armanispiryan.list
 sudo apt update
 sudo apt install tempwatch
 ```
