@@ -2,7 +2,7 @@
 
 > Live hardware temperature monitor for Linux
 
-tempwatch is a real-time terminal UI that displays CPU core temperatures, GPU temperature, drive temperatures, and a live scrolling CPU usage graph — all colour-coded and auto-refreshing every 2 seconds.
+tempwatch is a real-time terminal UI that displays CPU core temperatures, GPU temperature, drive temperatures, and a live scrolling CPU usage graph, all colour-coded and auto-refreshing every 2 seconds.
 
 ![Platform](https://img.shields.io/badge/platform-Linux-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
